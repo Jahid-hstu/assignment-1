@@ -88,3 +88,9 @@
     .s h3 {
         color: #6a6670;
     }
+    .part h3 {
+        text-align: center;
+    }
+    .part p{
+        text-align: center;
+    }
