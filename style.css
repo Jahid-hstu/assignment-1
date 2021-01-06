@@ -1,0 +1,90 @@
+ body{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+ }
+ .half_width {
+    width: 45%;
+    float: left;
+    margin-left: 75px;
+}
+    img.top_pic {
+        width: 80%;
+    }
+    .top {
+        width: 100%;
+        height: 600px;
+        margin-top: 45px;
+        /* background: red; */
+    }
+    .highlight{
+        color: tomato;
+    }
+    .s {
+        margin-top: 162px;
+    }
+    .bottom h1{
+        margin: 0 auto;
+    }
+    .part {
+        width: 300px;
+        margin-top: 70px;
+    }
+    .part_pic{
+        width: 250px;
+    }
+    .whole_part {
+        margin-left: 200px;
+        margin-top: 60px;
+    }
+    .part {
+        width: 300px;
+        margin-top: 70px;
+        float: left;
+        margin-left: 60px;
+    }
+    
+    .bottom h1 {
+        margin-left: 610px;
+    }  
+    .chat_bg {
+        background-image: url(images/Group_33094_1.png);
+        background-repeat: no-repeat;
+        background-size: 70%;
+        margin-left: 200px;
+        position: relative;
+        margin-top: 150px;
+    }  
+    .chat_bg p {
+        font-size: 30px;
+        color: white;
+        margin: 100px 0px 0px 90px;
+        position: absolute;
+    }
+    .chat_bg a {
+        position: absolute;
+        margin: 110px 0px 0px 830px;
+    }
+    .s h1 {
+        font-size: 40px;
+        color: #9f2ec4b3;
+    }
+    a.link {
+        text-decoration: none;
+        color: white;
+        background: linear-gradient(45deg, #b516dd, #724f48b3);
+        padding: 10px 15px;
+        border-radius: 7px;
+    }
+    section.top.bottom {
+        box-shadow: 20px 20px 37px 40px #d6d8eb;
+    }
+    .part {
+        width: 300px;
+        margin-top: 70px;
+        float: left;
+        margin-left: 60px;
+        box-shadow: 0px 1px 5px 10px #ebe5e5;
+    }
+    .s h3 {
+        color: #6a6670;
+    }
