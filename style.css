@@ -45,20 +45,23 @@
     
     .bottom h1 {
         margin-left: 610px;
-    }  
+        position: absolute;
+        margin-top: 60px;
+    } 
     .chat_bg {
         background-image: url(images/Group_33094_1.png);
         background-repeat: no-repeat;
         background-size: 70%;
-        margin-left: 200px;
+        margin-left: 235px;
         position: relative;
-        margin-top: 150px;
+        margin-top: 500px;
     }  
     .chat_bg p {
-        font-size: 30px;
+        font-size: 38px;
         color: white;
         margin: 100px 0px 0px 90px;
         position: absolute;
+        font-weight: 700;
     }
     .chat_bg a {
         position: absolute;
@@ -72,18 +75,21 @@
         text-decoration: none;
         color: white;
         background: linear-gradient(45deg, #b516dd, #724f48b3);
-        padding: 10px 15px;
+        padding: 12px 17px;
         border-radius: 7px;
     }
     section.top.bottom {
-        box-shadow: 20px 20px 37px 40px #d6d8eb;
+        position: relative;
+        background-color: #f5f4f8;
     }
     .part {
         width: 300px;
-        margin-top: 70px;
+        margin-top: 160px;
         float: left;
         margin-left: 60px;
-        box-shadow: 0px 1px 5px 10px #ebe5e5;
+        box-shadow: -1px 0px 0px 1px #e9e0e0;
+        border-radius: 15px;
+        background-color: white;
     }
     .s h3 {
         color: #6a6670;
@@ -93,4 +99,7 @@
     }
     .part p{
         text-align: center;
+    }
+.s p{
+        color: #363738b3;
     }
